@@ -1,0 +1,17 @@
+{
+ 	"postgres": {
+ 		"host": "127.0.0.1:5432",
+ 		"user": "semaphore_admin",
+ 		"pass": "herbace0usj",
+ 		"name": "semaphore",
+ 		"options": {
+ 			"sslmode": "disable"
+ 		}
+ 	},
+ 	"dialect": "postgres",
+ 	"tmp_path": "/ansible-projects/playbooks",
+ 	"web_host": "https://cpt-hq-semaphore.hq.takealot.com/semaphore",
+ 	"cookie_hash": "ZnxPgl48SY3jIIgbl+TyVAawSTLWbHZZQCckbtdlrno=",
+ 	"cookie_encryption": "6rre287O6UQvOib1TWBp+oyf0vPHtBQBgY/0wt2O5eU=",
+ 	"access_key_encryption": "3rXwKoqAaumzrQ/U3EAeYtFlWlr6IIBnAP+X3e37JtE="
+ }
